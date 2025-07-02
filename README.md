@@ -1,8 +1,10 @@
 # Python-Project
 ABC Company – Employee Data Analysis Project
 -------------------------------------------------------------------
-🎓 Python Module End Project 
+🎓 Python Module End Project
+
 📁 Project Overview
+--------------------------------------------------------------------
 This project involves analyzing an employee dataset from ABC Company as part of the Python module’s final assessment. The dataset includes 458 rows and 9 columns with employee details such as age, team, position, salary, etc.
 
 The project includes:
@@ -62,7 +64,8 @@ The project includes:
 4. Development is the team with the highest salary expenditure.
 5. There is a moderate positive correlation between age and salary, indicating that salary generally increases with experience.
 
-📂 Repository Structure
+📂  Repository Structure
+----------------------------------
 Python Project - ABC Company Employee Analysis/
 ├── data.xlsx
 ├── end_project.ipynb
