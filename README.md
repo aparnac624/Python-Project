@@ -67,7 +67,7 @@ The project includes:
 📂  Repository Structure
 ----------------------------------
 Python Project - ABC Company Employee Analysis/
-├── data.xlsx
+├── dataset.xlsx
 ├── end_project.ipynb
 └── README.md
  
